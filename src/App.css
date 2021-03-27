@@ -1,0 +1,21 @@
+.calculator-body{
+  background-color: #ffffff;
+  width: 300px;
+  box-sizing: border-box;
+  height: 260px;
+  border: 1px solid gainsboro;
+  padding: 0 10px;
+  margin-bottom: 10px;
+  
+}
+.result-output{
+  margin: 12px  20px 10px;
+  padding: 15px auto;
+  height: 25px;
+  border: 1px solid gainsboro;
+  box-sizing: border-box;
+  font-weight: bold;
+  font-size: 15px;
+  
+
+}
